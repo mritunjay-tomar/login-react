@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+.register-form {
+    background-color: white;
+}
+
+form {
+    padding: 10px;
+}
+
+input {
+    border:1px solid #ccc;
+}
+
+input[type=email] {
+    display: block;
+    width: 100%;
+    padding: 3px;
+}
+
+input[type=submit] {
+    padding: 10px;
+    border-radius: 3px;
+}
